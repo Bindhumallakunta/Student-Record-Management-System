@@ -1,0 +1,3 @@
+open ubuntu->cd Student_Application
+open visual studio->connect to WSL->EXECUTE ./student
+and open postgresql to get output 
